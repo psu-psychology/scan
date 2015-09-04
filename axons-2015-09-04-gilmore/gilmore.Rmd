@@ -14,8 +14,9 @@ output: ioslides_presentation
 ## Things I do
 
 - [Lab website](http://gilmore-lab.github.io)
-- [Blogging](http://rick-gilmore.org)
 - [GitHub](http://github.com/rogilmore)
+- [Databrary](http://databrary.org//party/6)
+- [Blogging](http://rick-gilmore.org)
 
 ## Things I (sort of) do
 
@@ -28,11 +29,11 @@ output: ioslides_presentation
 
 ## Things I don't really do
 
+- **Curate an email list of colleagues and send them my stuff**
 - [Twitter](http://twitter.com/rogilmore)
 - [StackExchange](http://stackexchange.com)
 - [StackOverflow](http://stackoverflow.com)
 - Write opinion/popular pieces, but see
     + <http://news.psu.edu/story/141200/2008/01/28/research/probing-question-what-colorblindness>
     + <http://news.psu.edu/story/141254/2009/02/23/research/probing-question-can-babies-learn-utero>
-- Curate an email list of colleagues and send them my stuff
 - Reddit
