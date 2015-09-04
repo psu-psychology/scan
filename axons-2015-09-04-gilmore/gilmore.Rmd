@@ -1,0 +1,38 @@
+---
+title: "axons-2015-09-04"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output: ioslides_presentation
+---
+
+## Managing your brand
+
+- Google yourself
+- Is yourname.com or yourname.org taken?
+    + <https://www.name.com>
+
+## Things I do
+
+- [Lab website](http://gilmore-lab.github.io)
+- [Blogging](http://rick-gilmore.org)
+- [GitHub](http://github.com/rogilmore)
+
+## Things I (sort of) do
+
+- [ResearchGate](http://www.researchgate.net)
+- [LinkedIn](http://linkedin.com)
+- [ImpactStory](http://impactstory.org)
+- Google Scholar Profile
+    +<http://www.slideshare.net/SarahG_SS/how-to-set-up-your-google-scholar-profile-google-scholar-citations>
+- [ORCID](http://orcid.org/)
+
+## Things I don't really do
+
+- [Twitter](http://twitter.com/rogilmore)
+- [StackExchange](http://stackexchange.com)
+- [StackOverflow](http://stackoverflow.com)
+- Write opinion/popular pieces, but see
+    + <http://news.psu.edu/story/141200/2008/01/28/research/probing-question-what-colorblindness>
+    + <http://news.psu.edu/story/141254/2009/02/23/research/probing-question-can-babies-learn-utero>
+- Curate an email list of colleagues and send them my stuff
+- Reddit
